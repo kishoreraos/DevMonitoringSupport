@@ -1,2 +1,2 @@
 # DevMonitoringSupport
-This is to monitor the progress of the development
+This is to monitor the progress of the developments
